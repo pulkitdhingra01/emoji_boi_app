@@ -1,2 +1,2 @@
 # emoji_boi_app
-Created with CodeSandbox
+Enter or choose and emoji from the app to get its meaning.
