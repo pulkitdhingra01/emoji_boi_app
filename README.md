@@ -1,2 +1,2 @@
 # emoji_boi_app
-Enter or choose and emoji from the app to get its meaning.
+Enter or choose an emoji from the app to get its meaning.
